@@ -1,0 +1,40 @@
+body {
+    font-family: 'Jost', sans-serif !important;
+}
+ul li {
+    display: inline !important;
+    padding-right: 5vw;
+    font-size: 1.2em;
+}
+.r_bg_black {
+    background-color: black;
+    box-shadow:  0 2px 4px 4px #212121;
+}
+.r_bg_dark {
+    background-color: rgb(10, 10, 10);
+}
+.r_nav {
+    height: 12vh;
+}
+.r_nav_link {
+    line-height: 12vh;
+    text-decoration: none;
+}
+.r_neon_text {
+   color: #cf3; 
+}
+.r_neon_text:hover {
+    color: #c6ff00;
+}
+.r_neon_text_2 {
+    color: #eeff41;
+}
+.r_white_text {
+    color: #fff;
+}
+.r_spacer_five {
+    height: 5vh;
+}
+.r_content {
+    min-height: 88vh;
+}
